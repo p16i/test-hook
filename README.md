@@ -1,3 +1,3 @@
 test-hook
 =========
-updated!
+updated! 2
